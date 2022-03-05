@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abigith
-- 👀 I’m interested in Analytics and Modelling using R, GIS and Python for Ecological Restoration and Nature Base Solution Projects.
-- 🌱 I’m currently learning Statistics, Modelling using R, ython and GIS 
+- 👀 I’m interested in Analytics and Modelling using R, GIS and Python for Ecological Restoration and Nature Based Solution Projects.
+- 🌱 I’m currently learning Statistics, Modelling using R, Python and GIS 
 - 💞️ I’m looking to collaborate on Environmental Analytics and Climate Modelling Projects.
 - 📫 Reach me on abigithbaby123@gmail.com
 
